@@ -1,0 +1,13 @@
+/Users/agf46/rust--basics/rust_cmd/target/debug/deps/quote-c8ecc0555f1ff65c.rmeta: /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/agf46/rust--basics/rust_cmd/target/debug/deps/libquote-c8ecc0555f1ff65c.rlib: /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/agf46/rust--basics/rust_cmd/target/debug/deps/quote-c8ecc0555f1ff65c.d: /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/Users/agf46/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:
